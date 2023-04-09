@@ -1,0 +1,8 @@
+export const LOGIN_REQUEST = "LOGIN_REQUEST";
+export const LOGOUT_REQUEST = "LOGOUT_REQUEST";
+export const SUCCESS = "SUCCESS";
+export const FAILURE = "FAILURE";
+export const GET_PROFILE = "GET_PROFILE";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const UPDATE_PROFILE_SUCCESS = "UPDATE_PROFILE_SUCCESS";
+export const UPDATE_IMG = "UPDATE_IMG";

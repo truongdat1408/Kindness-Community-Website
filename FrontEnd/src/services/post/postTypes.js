@@ -1,0 +1,10 @@
+export const GET_ALL = "GET_ALL";
+export const POST_REQ = "POST_REQ";
+export const CREATE_SUCCESS = "CREATE_SUCCESS";
+export const LIKE_SUCCESS = "LIKE_SUCCESS";
+export const GET_ROOT_COMMENT_SUCCESS = "GET_ROOT_COMMENT_SUCCESS";
+export const GET_REPLIES_SUCCESS = "GET_REPLIES_SUCCESS";
+export const SUCCESS = "SUCCESS";
+export const EDIT_POST_SUCCESS = "EDIT_POST_SUCCESS";
+export const GET_ALL_POSTS = "GET_ALL_POSTS";
+export const GET_ALL_POSTS_JOIN = "GET_ALL_POSTS_JOIN";
